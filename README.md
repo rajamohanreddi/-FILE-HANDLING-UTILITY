@@ -28,3 +28,7 @@ Manipulating File Properties: Modifying file attributes like permissions, timest
 Organizing Files: Moving, renaming, copying, or sorting files in directories.
 
 Error Handling: Providing mechanisms to handle issues like file not found or insufficient permissions.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5d7a2fd3-ba21-423b-aa31-c9277583a260)
